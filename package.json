@@ -1,0 +1,15 @@
+{
+  "name": "cors-server-proxy",
+  "version": "1.0.0",
+  "description": "A cors server proxy to bypass cors errors in development",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": "git@github.com:redasalmi/cors-server-proxy.git",
+  "author": "redasalmi <reda.salmi.elt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors-anywhere": "^0.4.2"
+  }
+}
